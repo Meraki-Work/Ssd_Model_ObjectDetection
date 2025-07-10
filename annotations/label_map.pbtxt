@@ -1,0 +1,12 @@
+item {
+  id: 1
+  name: 'cengkeh_mentah'
+}
+item {
+  id: 2
+  name: 'cengkeh_matang'
+}
+item {
+  id: 3
+  name: 'cengkeh_batang'
+}
